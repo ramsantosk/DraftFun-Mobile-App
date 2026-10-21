@@ -1,0 +1,57 @@
+
+# ======================================
+# DraftFun - Public Showcase Repository
+# ======================================
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.p8
+*.jks
+*.keystore
+key.properties
+
+# Firebase and service credentials
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+service-account*.json
+*service-account*.json
+
+# Flutter and Dart generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+coverage/
+.packages
+
+# Android build files
+.gradle/
+local.properties
+
+# IDE configuration
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local databases and SQL exports
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# Application builds
+*.apk
+*.aab
+
+# Logs
+*.log
