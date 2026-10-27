@@ -170,8 +170,7 @@ class ChapterCompletionDialog {
                         ),
                       ),
 
-                      // Extra large close target so the popup is still easy to
-                      // dismiss on smaller landscape phones.
+                   
                       Positioned(
                         top: 6,
                         right: 6,
