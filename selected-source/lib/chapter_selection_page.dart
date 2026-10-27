@@ -419,9 +419,9 @@ Future<void> _openChapter(int chapterNumber) async {
   }
 }
     }
-// ============================================================
+
 // CHAPTER DATA
-// ============================================================
+
 
 class _ChapterData {
   const _ChapterData({
@@ -435,9 +435,8 @@ class _ChapterData {
   final int chapterNumber;
 }
 
-// ============================================================
+
 // CHAPTER CARD
-// ============================================================
 
 class _ChapterCard extends StatefulWidget {
   const _ChapterCard({
